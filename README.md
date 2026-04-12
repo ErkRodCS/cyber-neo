@@ -11,10 +11,11 @@
 [![CWE Top 25](https://img.shields.io/badge/CWE-Top%2025%20(2025)-00ff41.svg)](https://cwe.mitre.org/top25/)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-00ff41.svg)](https://claude.ai/code)
 [![Community](https://img.shields.io/badge/Community-tododeia.com-00ff41.svg)](https://tododeia.com)
+[![Instagram](https://img.shields.io/badge/Shipped%20by-@soyenriquerocha-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/soyenriquerocha)
 
 ---
 
-*Built by the [Tododeia](https://tododeia.com) community — empowering developers to ship secure software.*
+*Shipped by [@soyenriquerocha](https://instagram.com/soyenriquerocha) | Built by the [Tododeia](https://tododeia.com) community — empowering developers to ship secure software.*
 
 </div>
 
@@ -462,9 +463,10 @@ We welcome contributions from the community. See [CLAUDE.md](CLAUDE.md) for deta
 
 ## Community
 
-Cyber Neo is built by the [Tododeia](https://tododeia.com) community.
+Cyber Neo is shipped by **[@soyenriquerocha](https://instagram.com/soyenriquerocha)** and built by the **[Tododeia](https://tododeia.com)** community — a growing network of developers building apps, tools, and products together. We believe every developer deserves access to enterprise-grade security tooling, for free.
 
-- **Website:** [tododeia.com](https://tododeia.com)
+- **Creator:** [@soyenriquerocha](https://instagram.com/soyenriquerocha) on Instagram
+- **Community:** [tododeia.com](https://tododeia.com)
 - **GitHub:** [github.com/Hainrixz/cyber-neo](https://github.com/Hainrixz/cyber-neo)
 - **License:** MIT — use it, modify it, share it
 
@@ -485,10 +487,10 @@ Cyber Neo builds on the shoulders of the security community:
 
 <div align="center">
 
-**Built with purpose. Open source forever.**
+**Shipped by [@soyenriquerocha](https://instagram.com/soyenriquerocha) | Built with purpose. Open source forever.**
 
 *Protecting the apps our community builds — one scan at a time.*
 
-[Get Started](#installation) | [Report an Issue](https://github.com/Hainrixz/cyber-neo/issues) | [Join the Community](https://tododeia.com)
+[Get Started](#installation) | [Report an Issue](https://github.com/Hainrixz/cyber-neo/issues) | [Join the Community](https://tododeia.com) | [Follow @soyenriquerocha](https://instagram.com/soyenriquerocha)
 
 </div>
